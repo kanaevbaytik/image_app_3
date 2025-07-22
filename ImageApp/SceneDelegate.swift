@@ -1,9 +1,3 @@
-//
-//  SceneDelegate.swift
-//  ImageApp
-//
-//  Created by Baytik  on 21/7/25.
-//
 
 import UIKit
 
